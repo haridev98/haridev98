@@ -47,8 +47,13 @@ Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning ent
     <li>
       <h3>Bookshop Revenue Analysis using Tableau(<a href="https://public.tableau.com/app/profile/haridev.s3100/viz/Bookstore-Dashboard_16886451602710/Dashboard">View</a>)</h3>
       <p>Cleaned and analyzed 5k+ rows of 10-column of Bookshop data using Excel</p>
+      <p>Analyzed the bookshop's revenue by average monthly sales, genre, and book via visualization</p>
+      <p>Created visualizations like bar chart, density chart, heatmap & published the dashboard to Tableau Public</p>
+          </li>
+  </ul>
 
-      <h2>Contact Me</h2>
+
+  <h2>Contact Me</h2>
 <div class="contact-icons">
   <a href="https://www.linkedin.com/in/haridevsivaraman/" target="_blank">
     <img src="https://i.imgur.com/H2eKNDR.png" alt="LinkedIn" width="80" height="80">
@@ -63,8 +68,4 @@ Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning ent
     <img src="https://i.imgur.com/Oylmogo.png" alt="Jovian" width="80" height="80">
   </a>
 </div>
-      <p>Analyzed the bookshop's revenue by average monthly sales, genre, and book via visualization</p>
-      <p>Created visualizations like bar chart, density chart, heatmap & published the dashboard to Tableau Public</p>
-          </li>
-  </ul>
 
