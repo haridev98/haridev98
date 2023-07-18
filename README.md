@@ -21,7 +21,17 @@ Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning ent
   </a>
 </div>
 
-
+<body>
+  <h2>Crazy Info</h2>
+  <ul>
+    <li>🌟 I'm currently diving deep into the mystical world of Machine Learning! 🌱</li>
+    <li>🚀 All my mind-blowing projects are waiting to be discovered on my Jovian Profile! 👨‍💻</li>
+    <li>📝 Brace yourself for some wild and mind-bending articles on Medium! 📚</li>
+    <li>💬 I'm a master of MySQL, Python, Statistics, Web scraping, and the art of Exploratory Data Analysis (EDA). Ask me anything! 💪</li>
+    <li>📧 Catch me on the intergalactic web at pankajthakur3999@gmail.com! 📫</li>
+    <li>📄 Wanna see my supercharged resume? Here it is: <a href="https://drive.google.com/file/d/1ztrlJguJeijv5PmSXwXZ0gwBwxEp6Mbc/view?usp=sharing">Resume</a>! 🚀</li>
+  </ul>
+</body>
 
   <h2>Skills</h2>
 <ul><li>Data Analysis, Machine Learning, Web Scraping, Data Visualization, SQL, Version Control, Problem Solving, Communication</li></ul>
