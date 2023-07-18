@@ -5,28 +5,14 @@ Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning ent
 
 
 
-<h2>Contact Me</h2>
-<div class="contact-icons">
-  <a href="https://www.linkedin.com/in/haridevsivaraman/" target="_blank">
-    <img src="https://i.imgur.com/H2eKNDR.png" alt="LinkedIn" width="80" height="80">
-  </a>
-  <a href="mailto:haridevsivaraman@gmail.com" target="_blank">
-    <img src="https://i.imgur.com/foGoHat.jpg" alt="Email" width="80" height="80">
-  </a>
-  <a href="https://haridevsivaraman.medium.com/" target="_blank">
-    <img src="https://i.imgur.com/qz2sb29.png" alt="Medium" width="80" height="80">
-  </a>
-  <a href="https://jovian.com/haridev5041998" target="_blank">
-    <img src="https://i.imgur.com/Oylmogo.png" alt="Jovian" width="80" height="80">
-  </a>
-</div>
+
 
 <body>
   <h2>Crazy Info</h2>
   <ul>
     <li>🌟 I'm currently diving deep into the mystical world of Machine Learning! 🌱</li>
-    <li>🚀 All my mind-blowing projects are waiting to be discovered on my Jovian Profile! 👨‍💻</li>
-    <li>📝 Brace yourself for some wild and mind-bending articles on Medium! 📚</li>
+    <li>🚀 All my mind-blowing projects are waiting to be discovered on my <a href="https://jovian.com/haridev5041998">Jovian Profile!</a> 👨‍💻</li>
+    <li>📝 Brace yourself for some wild and mind-bending articles on<a href="https://haridevsivaraman.medium.com/"> Medium!</a> 📚</li>
     <li>💬 I'm a master of MySQL, Python, Statistics, Web scraping, and the art of Exploratory Data Analysis (EDA). Ask me anything! 💪</li>
     <li>📧 Catch me on the intergalactic web at   <a href="mailto:haridevsivaraman@gmail.com" target="_blank">
     <img src="https://i.imgur.com/foGoHat.jpg" alt="Email" width="18" height="18">
@@ -61,6 +47,22 @@ Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning ent
     <li>
       <h3>Bookshop Revenue Analysis using Tableau(<a href="https://public.tableau.com/app/profile/haridev.s3100/viz/Bookstore-Dashboard_16886451602710/Dashboard">View</a>)</h3>
       <p>Cleaned and analyzed 5k+ rows of 10-column of Bookshop data using Excel</p>
+
+      <h2>Contact Me</h2>
+<div class="contact-icons">
+  <a href="https://www.linkedin.com/in/haridevsivaraman/" target="_blank">
+    <img src="https://i.imgur.com/H2eKNDR.png" alt="LinkedIn" width="80" height="80">
+  </a>
+  <a href="mailto:haridevsivaraman@gmail.com" target="_blank">
+    <img src="https://i.imgur.com/foGoHat.jpg" alt="Email" width="80" height="80">
+  </a>
+  <a href="https://haridevsivaraman.medium.com/" target="_blank">
+    <img src="https://i.imgur.com/qz2sb29.png" alt="Medium" width="80" height="80">
+  </a>
+  <a href="https://jovian.com/haridev5041998" target="_blank">
+    <img src="https://i.imgur.com/Oylmogo.png" alt="Jovian" width="80" height="80">
+  </a>
+</div>
       <p>Analyzed the bookshop's revenue by average monthly sales, genre, and book via visualization</p>
       <p>Created visualizations like bar chart, density chart, heatmap & published the dashboard to Tableau Public</p>
           </li>
