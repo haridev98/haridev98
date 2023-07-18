@@ -11,8 +11,8 @@ Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning ent
   <h2>Crazy Info</h2>
   <ul>
     <li>🌟 I'm currently diving deep into the mystical world of Machine Learning! 🌱</li>
-    <li>🚀 All my mind-blowing projects are waiting to be discovered on my <a href="https://jovian.com/haridev5041998">Jovian Profile!</a> 👨‍💻</li>
-    <li>📝 Brace yourself for some wild and mind-bending articles on<a href="https://haridevsivaraman.medium.com/"> Medium!</a> 📚</li>
+    <li>🚀 All my mind-blowing projects are waiting to be discovered on my <a href="https://jovian.com/haridev5041998">Jovian Profile</a>! 👨‍💻</li>
+    <li>📝 Brace yourself for some wild and mind-bending articles on<a href="https://haridevsivaraman.medium.com/"> Medium</a>! 📚</li>
     <li>💬 I'm a master of MySQL, Python, Statistics, Web scraping, and the art of Exploratory Data Analysis (EDA). Ask me anything! 💪</li>
     <li>📧 Catch me on the intergalactic web at   <a href="mailto:haridevsivaraman@gmail.com" target="_blank">
     <img src="https://i.imgur.com/foGoHat.jpg" alt="Email" width="18" height="18">
