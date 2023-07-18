@@ -3,31 +3,7 @@
 ## About Me
 Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning enthusiast. I'm obsessed with the coolest AI technologies and love exploring new areas in the field. From mind-reading algorithms to self-driving cars, AI is transforming our world. I'm here to connect with fellow enthusiasts and dive deep into captivating AI projects. What are you working on? Any specific areas or technologies that excite you? Let's embark on this incredible journey together and make our mark in Data Science and Machine Learning! The possibilities are endless.
 
-<style>
-.contact-icons {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
 
-<style>
-.contact-icons {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
-
-.contact-icons a {
-  display: inline-block;
-  text-decoration: none;
-}
-
-.contact-icons img {
-  width: 30px;
-  height: 30px;
-  margin-right: 10px;
-}
-</style>
 
 <h2>Contact Me</h2>
 <div class="contact-icons">
