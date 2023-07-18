@@ -3,6 +3,53 @@
 ## About Me
 Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning enthusiast. I'm obsessed with the coolest AI technologies and love exploring new areas in the field. From mind-reading algorithms to self-driving cars, AI is transforming our world. I'm here to connect with fellow enthusiasts and dive deep into captivating AI projects. What are you working on? Any specific areas or technologies that excite you? Let's embark on this incredible journey together and make our mark in Data Science and Machine Learning! The possibilities are endless.
 
+<style>
+.contact-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+<style>
+.contact-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.contact-icons a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.contact-icons img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+</style>
+
+<h2>Contact Me</h2>
+<div class="contact-icons">
+  <a href="https://www.linkedin.com/in/haridevsivaraman/" target="_blank">
+    <img src="https://i.imgur.com/H2eKNDR.png" alt="LinkedIn" width="80" height="80">
+  </a>
+  <a href="mailto:haridevsivaraman@gmail.com" target="_blank">
+    <img src="https://i.imgur.com/foGoHat.jpg" alt="Email" width="80" height="80">
+  </a>
+  <a href="https://haridevsivaraman.medium.com/" target="_blank">
+    <img src="https://i.imgur.com/qz2sb29.png" alt="Medium" width="80" height="80">
+  </a>
+  <a href="https://jovian.com/haridev5041998" target="_blank">
+    <img src="https://i.imgur.com/Oylmogo.png" alt="Jovian" width="80" height="80">
+  </a>
+</div>
+
+
+
+  <h2>Skills</h2>
+<ul><li>Data Analysis, Machine Learning, Web Scraping, Data Visualization, SQL, Version Control, Problem Solving, Communication</li></ul>
+
 <h2>Projects</h2>
   <ul>
     <li>
@@ -30,3 +77,4 @@ Hey there! I'm **Haridev S**, a passionate Data Science and Machine Learning ent
       <p>Created visualizations like bar chart, density chart, heatmap & published the dashboard to Tableau Public</p>
           </li>
   </ul>
+
